@@ -8,14 +8,14 @@
 
 ## First Version
 
-第一版包含一下国家
+第一版包含以下国家
 
 - China
 - United States
 - Japan
 - India
 
-第一版计划包含一下指标：
+第一版计划包含以下指标：
 
 - GDP growth
 - GDP per capia
